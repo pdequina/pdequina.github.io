@@ -17,7 +17,7 @@ Let me give you the rundown: I have triumphed over 50 LeetCode problems, with 45
 
 Each problem is like a riddle, waiting to be solved. And when that coveted "Accepted" message finally pops up, it's a victorious fist-pump moment. 
 
-<video src="[]fe3-a7a1-678348796f48](https://github.com/pdequina/pdequina.github.io/assets/14809386/1404f405-aa5d-401c-a0ab-210cb7b0cc86)" controls></video>
+<video src="https://github.com/pdequina/pdequina.github.io/assets/14809386/1404f405-aa5d-401c-a0ab-210cb7b0cc86" controls></video>
 
 Wanna see it in action? Here's a clip of yours truly taking down a Medium-level problem and the sweet moment of victory when it was accepted!
 
