@@ -17,7 +17,7 @@ So here's the score: 50 problems tackled on LeetCode - 45 marked as Easy (they s
 
 Each problem is like a riddle, waiting to be solved. And when that "Accepted" message finally pops up, it's a real fist-pump moment. 
 
-<video src="({{ site.baseurl }}/images/accepted.mov)" controls></video>
+<video src="https://github.com/pdequina/pdequina.github.io/assets/14809386/b0c9b66a-ad05-4fe3-a7a1-678348796f48" controls></video>
 
 Wanna see it in action? Here's a clip of yours truly taking down a Medium-level problem and the sweet moment of victory when it was accepted!
 
