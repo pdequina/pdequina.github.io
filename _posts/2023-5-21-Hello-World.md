@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LeetGrind: The First 50 Problems
+title: LeetGrind&#58; The First 50 Problems
 ---
 LeetGrind Begins!
 
