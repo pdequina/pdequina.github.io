@@ -2,7 +2,7 @@
 layout: post
 title: LeetGrind: The First 50 Problems
 ---
-# LeetGrind Begins!
+LeetGrind Begins!
 
 Hello, World! I am thrilled to announce that I have successfully conquered the first 50 problems on my LeetCode journey. Yes, you heard it right! I have tackled a half-century of coding challenges, and I am excited to share my experiences, tips, and some intriguing insights I gained along the way!
 
