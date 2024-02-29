@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LeetGrind: The First 50 Problems
+excerpt: "This is a custom excerpt for my post."
 ---
 # LeetGrind Begins!
 
