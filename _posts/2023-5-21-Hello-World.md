@@ -2,6 +2,7 @@
 layout: post
 title: LeetGrind: The First 50 Problems
 ---
+
 # LeetGrind Begins!
 
 Hello, World! I am thrilled to announce that I have successfully conquered the first 50 problems on my LeetCode journey. Yes, you heard it right! I have tackled a half-century of coding challenges, and I am excited to share my experiences, tips, and some intriguing insights I gained along the way!
@@ -16,6 +17,7 @@ Let me give you the rundown: I have triumphed over 50 LeetCode problems, with 45
 
 Each problem is like a riddle, waiting to be solved. And when that coveted "Accepted" message finally pops up, it's a victorious fist-pump moment!
 
+---
 ## Notion: My Trusty Quest Companion
 
 ![Notion Table View]({{ site.baseurl }}/images/tableView.png)
