@@ -16,6 +16,8 @@ Let me give you the rundown: I have triumphed over 50 LeetCode problems, with 45
 
 Each problem is like a riddle, waiting to be solved. And when that coveted "Accepted" message finally pops up, it's a victorious fist-pump moment!
 
+---
+
 ## Notion: My Trusty Quest Companion
 
 ![Notion Table View]({{ site.baseurl }}/images/tableView.png)
